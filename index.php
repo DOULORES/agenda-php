@@ -4,7 +4,7 @@ include_once("templates/header.php");
 
 <div class="container">
     <?php if (isset($print_msg) && $print_msg != ''): ?>
-        <p id="msg"><?php $print_msg ?></p>
+        <p id="msg"><?= $print_msg ?></p>
     <?php endif; ?>
 
     <h1 id="main-title">Minha Agenda</h1>

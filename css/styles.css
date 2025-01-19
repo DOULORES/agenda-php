@@ -29,7 +29,7 @@
 
 .actions i {
     font-size: 18px;
-    max-resolution: 5px;
+    margin-right: 5px;
 }
 
 .check-icon {
@@ -61,7 +61,7 @@
     padding: 10px;
     text-align: center;
     max-width: 500px;
-    max-width: 0 auto;
+    margin: 0 auto;
     margin-top: 30px;
 }
 
